@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Youssif Khaled Elish!
 
 ### 🌐 .NET Developer | 🚀 Tech Enthusiast
+<img src="https://via.placeholder.com/150" align="right" width="25%" />
+
 📍 Cairo, Egypt  
 📞 (+20) 1093441321  
 ✉️ [YoussifElish@outlook.com](mailto:YoussifElish@outlook.com)  
@@ -66,5 +68,9 @@ I am a dedicated and innovative **.NET Developer** with a passion for creating d
 
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-- [LinkedIn](https://www.linkedin.com/in/youssif-elish-870641279)
-- [GitHub](https://github.com/YoussifElish)
+<p>
+    <a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/youssif-elish-870641279"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.youtube.com/YOUR_YOUTUBE_CHANNEL"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
