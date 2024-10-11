@@ -48,19 +48,35 @@ I am a dedicated and innovative **.NET Developer** with a passion for creating d
 
 ---
 
-## 🌟 Projects
+## 🖥 &nbsp; Projects
 
-### 1. Vote System API
-- **Description:** An ASP.NET Core API for users to vote on various topics and get votes result
-- **Technologies:** ASP.NET Core, SQL Server, Mapster, Fluent Validation, Hangfire.
+### 🌟 Featured Projects
 
-### 2. E-Commerce ASP.NET Web API
-- **Description:** Online database for shop products, facilitating a smooth shopping experience.
-- **Technologies:** ASP.NET Core API, Entity Framework, SQL Server, Unit of Work.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <a href="https://github.com/YoussifElish/Vote-System-API">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussifElish&repo=Vote-System-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Vote System API" width="30%"/>
+    </a>
+    <a href="https://github.com/YoussifElish/E-Commerce-Web-API">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussifElish&repo=E-Commerce-Web-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="E-Commerce ASP.NET Web API" width="30%"/>
+    </a>
+    <a href="https://github.com/YoussifElish/Bookify">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussifElish&repo=Bookify&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Bookify - Library Management System" width="30%"/>
+    </a>
+</div>
 
-### 3. Bookify - Library Management System
-- **Description:** A complete library management system with features for rentals and member management.
-- **Technologies:** ASP.NET Core MVC, Entity Framework, Bootstrap, jQuery.
+### 📚 Project Descriptions
+
+1. **Vote System API**  
+   An ASP.NET Core API for users to vote on various topics and retrieve voting results.
+   - **Technologies**: ASP.NET Core, SQL Server, Mapster, Fluent Validation, Hangfire.
+
+2. **E-Commerce ASP.NET Web API**  
+   A robust online database for managing shop products, facilitating a seamless shopping experience.
+   - **Technologies**: ASP.NET Core API, Entity Framework, SQL Server, Unit of Work.
+
+3. **Bookify - Library Management System**  
+   A comprehensive library management system with features for rentals, returns, and member management.
+   - **Technologies**: ASP.NET Core MVC, Entity Framework, Bootstrap, jQuery.
 
 ---
 
